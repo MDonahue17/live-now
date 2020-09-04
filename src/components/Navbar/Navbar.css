@@ -1,0 +1,17 @@
+.logo {
+    font-weight: 150;
+    font-size: 50px;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.navbar {
+    height: 60px;
+    padding: 55px;
+}
+
+.right {
+    float: right;
+  }
